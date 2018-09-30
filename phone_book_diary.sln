@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "phone_book_diary", "phone_book_diary\phone_book_diary.vbproj", "{3F65F925-5DA0-4DBB-AB1C-81D24473E641}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "phone_book_diary1.0", "phone_book_diary1.0\phone_book_diary1.0.vdproj", "{017B4F7E-9F30-4E01-A1B8-5D27F7830C22}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Phone_Book_DiaryV1.0", "Phone_Book_DiaryV1.0\Phone_Book_DiaryV1.0.vdproj", "{58910CAC-726F-48E0-A035-D6E58B88E741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F65F925-5DA0-4DBB-AB1C-81D24473E641}.Debug|x86.ActiveCfg = Debug|x86
+		{3F65F925-5DA0-4DBB-AB1C-81D24473E641}.Debug|x86.Build.0 = Debug|x86
+		{3F65F925-5DA0-4DBB-AB1C-81D24473E641}.Release|x86.ActiveCfg = Release|x86
+		{3F65F925-5DA0-4DBB-AB1C-81D24473E641}.Release|x86.Build.0 = Release|x86
+		{017B4F7E-9F30-4E01-A1B8-5D27F7830C22}.Debug|x86.ActiveCfg = Debug
+		{017B4F7E-9F30-4E01-A1B8-5D27F7830C22}.Release|x86.ActiveCfg = Release
+		{58910CAC-726F-48E0-A035-D6E58B88E741}.Debug|x86.ActiveCfg = Debug
+		{58910CAC-726F-48E0-A035-D6E58B88E741}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
